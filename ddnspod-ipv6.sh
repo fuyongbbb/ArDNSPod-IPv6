@@ -9,12 +9,12 @@
 #################################################
 
 # 1. Combine your token ID and token together as follows
-LOGIN_TOKEN="184236,aa786f388f6cd138d5a53427bbf9d731"
+LOGIN_TOKEN="186354,3c2eeb2ceaa7461b6aae3591f91c2b82"
 
 # 2. Place each domain you want to check as follows
 # you can have multiple checkDomainIP blocks
-DOMAIN="github.com"
-SUB_DOMAIN="router nas phone"
+DOMAIN="glaolang.club"
+SUB_DOMAIN="nas"
 
 # Global Variables:
 # 新的域名ip
